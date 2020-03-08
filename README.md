@@ -31,18 +31,22 @@ Currently you can:
   - Remove tasks/notes.
 
 #### Screenshots
-   - ![added_element](https://user-images.githubusercontent.com/34490121/76161278-309bd700-6132-11ea-8fee-0ccaaa3d8fdf.png)
-   - ![adding_element](https://user-images.githubusercontent.com/34490121/76161280-31cd0400-6132-11ea-8da3-a43abcf45d81.png)
-   - ![adding_element_with_name](https://user-images.githubusercontent.com/34490121/76161281-32659a80-6132-11ea-9525-67b6a251a332.png)
-   - ![doing_details](https://user-images.githubusercontent.com/34490121/76161282-3396c780-6132-11ea-8c93-acf18c45ea76.png)
-   - ![doing_details_with_image](https://user-images.githubusercontent.com/34490121/76161283-342f5e00-6132-11ea-99b5-d5fa58853d84.png)
-   - ![doing_empty](https://user-images.githubusercontent.com/34490121/76161284-34c7f480-6132-11ea-80e7-cc9e6c5bfb23.png)
-   - ![done_to_doing_manual_dark](https://user-images.githubusercontent.com/34490121/76161285-34c7f480-6132-11ea-916f-f92ed722802a.png)
-   - ![main_menu_with_done](https://user-images.githubusercontent.com/34490121/76161287-35608b00-6132-11ea-8bff-ccdb27025342.png)
-   - ![notes_empty](https://user-images.githubusercontent.com/34490121/76161289-3691b800-6132-11ea-8bbf-1273259bd0ac.png)
-   - ![settings_dark](https://user-images.githubusercontent.com/34490121/76161290-372a4e80-6132-11ea-9145-8cc8a91472cb.png)
-   - ![settings_light](https://user-images.githubusercontent.com/34490121/76161291-37c2e500-6132-11ea-93e8-6b4a02b366c0.png)
-
+  - ![settings_light](https://user-images.githubusercontent.com/34490121/76161465-0ea35400-6134-11ea-8496-4e14527277e8.jpg)
+  - ![added_element](https://user-images.githubusercontent.com/34490121/76161466-0fd48100-6134-11ea-9ecb-1b5aaa15d9ed.jpg)
+  - ![adding_element](https://user-images.githubusercontent.com/34490121/76161467-106d1780-6134-11ea-8dc4-c03ebea45ada.jpg)
+  - ![adding_element_with_name](https://user-images.githubusercontent.com/34490121/76161468-106d1780-6134-11ea-9701-ee997b5c6a4a.jpg)
+  - ![doing_details](https://user-images.githubusercontent.com/34490121/76161469-119e4480-6134-11ea-82e1-9e2a89d4b554.jpg)
+  - ![doing_details_with_image](https://user-images.githubusercontent.com/34490121/76161470-1236db00-6134-11ea-97c7-21eac53c4481.jpg)
+  - ![doing_empty](https://user-images.githubusercontent.com/34490121/76161471-12cf7180-6134-11ea-9510-ad856be0dbeb.jpg)
+  - ![done_details_dark](https://user-images.githubusercontent.com/34490121/76161472-12cf7180-6134-11ea-8d77-5c31272dd919.jpg)
+  - ![done_details_with_image](https://user-images.githubusercontent.com/34490121/76161474-13680800-6134-11ea-96c5-a15cd113ece0.jpg)
+  - ![done_empty](https://user-images.githubusercontent.com/34490121/76161475-14009e80-6134-11ea-88e2-f705b3c734ed.jpg)
+  - ![done_list_dark](https://user-images.githubusercontent.com/34490121/76161476-14009e80-6134-11ea-9bb4-e6aa0b0be14b.jpg)
+  - ![done_to_do_manual_dark](https://user-images.githubusercontent.com/34490121/76161477-14993500-6134-11ea-8190-05c928be7eda.jpg)
+  - ![done_to_doing_manual_dark](https://user-images.githubusercontent.com/34490121/76161478-1531cb80-6134-11ea-8b30-69c7d23187c4.jpg)
+  - ![main_menu_with_done](https://user-images.githubusercontent.com/34490121/76161479-1531cb80-6134-11ea-9de7-42e84b3dabbe.jpg)
+  - ![notes_empty](https://user-images.githubusercontent.com/34490121/76161481-1662f880-6134-11ea-8537-7029122b2fd6.jpg)
+  - ![settings_dark](https://user-images.githubusercontent.com/34490121/76161482-1662f880-6134-11ea-9514-4c67c17e3ea3.jpg)
   
 ##### Warning
   
