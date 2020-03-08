@@ -27,6 +27,7 @@ Currently you can:
   -Use light or dark mode (needs refomatting, but works fine)
   -Add images to your tasks (unlimited number for all images in a task/note, but only 10 can be added in one session).
   -Add/remove steps for tasks.
+  -Recognizing and opening links.
   -Remove tasks/notes.
   
 #### Warning
