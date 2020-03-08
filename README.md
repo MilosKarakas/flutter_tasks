@@ -34,4 +34,6 @@ Currently you can:
   
   Project is in early development stages and should not be considered as a valid reference to proper Flutter app development. It needs a lot more tuning, as many things in the project were written while I was pretty novice at Flutter.
   
+##### Screenshots
+![Screenshot_2020-03-08-07-04-39-530_com karakas milos flutter_tasks](https://user-images.githubusercontent.com/34490121/76157664-f15a8f80-610b-11ea-806d-3b828939a199.png)
   
