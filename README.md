@@ -19,7 +19,7 @@ Implementing features:
   -Implement search (it's present in the main menu, but it is not implemented).
   -..everything else that comes to my mind.
   
-###Current features
+### Current features
 
 Currently you can:
   -Add tasks and notes separated in 4 types : Do, Doing, Done and Notes, with header, details, steps and images tabs.
