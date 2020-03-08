@@ -6,7 +6,7 @@ Tasks and notes application customized for my own needs, made in Flutter. Starte
 
 Reformatting the source code, making it more consistent and readable. 
 Implementing better State Management logic. 
-Redisining the main menu.
+Redesigning the main menu.
 Implementing features: 
   - Categories 
   - Alarm for tasks
