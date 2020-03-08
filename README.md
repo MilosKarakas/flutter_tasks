@@ -4,8 +4,8 @@ Tasks and notes application customized for my own needs, made in Flutter. Starte
 
 ## Next steps
 
-Reformatting the source code, making it more consistent and readable.
-Implementing better State Management logic.
+Reformatting the source code, making it more consistent and readable.  \n
+Implementing better State Management logic. \n
 Redisining the main menu.
 Implementing features: 
   -Categories 
