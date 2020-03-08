@@ -26,7 +26,7 @@ Currently you can:
   - Manually change type of your tasks to match the current status or let the app do it automatically. (if you move it manually once, app will no longer move the task automatically (you can turn it off completely in the Settings).
   - Use light or dark mode (needs refomatting, but works fine)
   - Add images to your tasks (unlimited number for all images in a task/note, but only 10 can be added in one session).
-  - Add/remove steps for tasks.
+  - Add/remove/edit steps for tasks.
   - Recognizing and opening links.
   - Remove tasks/notes.
 
