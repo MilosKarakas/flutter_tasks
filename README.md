@@ -29,8 +29,11 @@ Currently you can:
   - Add/remove steps for tasks.
   - Recognizing and opening links.
   - Remove tasks/notes.
+
+#### Screenshots
+  - [Main menu](/screenshots/main_menu_with_done.png)
   
-#### Warning
+##### Warning
   
   Project is in early development stages and should not be considered as a valid reference to proper Flutter app development. It needs a lot more tuning, as many things in the project were written while I was pretty novice at Flutter.
   
