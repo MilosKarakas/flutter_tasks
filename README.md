@@ -48,6 +48,7 @@ Currently you can:
   ![notes_empty](https://user-images.githubusercontent.com/34490121/76161481-1662f880-6134-11ea-8537-7029122b2fd6.jpg)
   ![settings_dark](https://user-images.githubusercontent.com/34490121/76161482-1662f880-6134-11ea-9514-4c67c17e3ea3.jpg)
   
+  - For full-sized screenshots look into screenshots/ folder.
 ##### Warning
   
   Project is in early development stages and should not be considered as a valid reference to proper Flutter app development. It needs a lot more tuning, as many things in the project were written while I was pretty novice at Flutter.
