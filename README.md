@@ -1,4 +1,4 @@
-# flutter_tasks
+# flutter_tasks - DISCOUNTINUED
 
 Tasks and notes application customized for my own needs, made in Flutter. Started as a learning project. Still under construction.
 
